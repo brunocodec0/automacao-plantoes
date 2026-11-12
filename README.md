@@ -101,7 +101,7 @@ Veja o passo a passo em [`docs/INSTALACAO.md`](docs/INSTALACAO.md). Resumo:
 
 | Métrica | Antes | Depois |
 |---|---|---|
-| Tempo para montar a escala semanal | XX min | < 1 min |
+| Montagem da escala semanal | Manual: ler cada resposta do Forms, cruzar disponibilidades, alternar os dias e formatar o print | 1 clique (geração automática) |
 | Erros de duplicidade / disponibilidade | recorrentes | 0 (validado por testes) |
 | Dependência de quem criou a escala | alta | manual de uso para a Gestão de Pessoas |
 
