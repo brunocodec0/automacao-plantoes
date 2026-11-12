@@ -1,0 +1,8 @@
+{
+  "name": "escala-plantoes",
+  "version": "1.0.0",
+  "description": "Geração automática de escala de plantões em Google Sheets (Apps Script)",
+  "scripts": { "test": "node tests/run-tests.js" },
+  "license": "MIT",
+  "author": "Bruno Codeco"
+}
